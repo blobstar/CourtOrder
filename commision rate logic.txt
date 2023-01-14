@@ -1,0 +1,9 @@
+CASE 
+  WHEN [Product Type] ilike '%sneakers%'and [Variant Title] ilike '%new%' THEN 0.175
+  WHEN [Product Type] ilike '%sneakers%' THEN 0.225
+  WHEN [Product Type] ilike '%Streetwear%'and [Variant Title] ilike '%new%' THEN 0.225
+  WHEN [Product Type] ilike '%Streetwear%' THEN 0.275
+  WHEN [Product Type] ilike '%Accessories%'and [Variant Title] ilike '%new%' THEN 0.25
+  WHEN [Product Type] ilike '%Accessories%' THEN 0.30
+  ELSE 0
+END

@@ -1,0 +1,37 @@
+
+
+
+percentage - doable
+center align headers in html table - q
+
+totals and total title - d but hard
+2 decimals for rand values - d but hard
+hyperlink the logo - doable
+
+
+
+gui - very questionable
+
+1. Insert following above ’thanks for choosing’ line: 
+
+
+2. Fix %
+3. Centre align table headings
+4. Centre align cell contents
+5.Remove first column/index
+6. Add total cell, with total label
+7. No comm amount showing - support emailed
+8. Embed logo above table 
+9. Hyperlink logo
+10. ‘R’ for currency cells
+11. Standardise 2 decimals for currency cells
+12. Hi res logo substitution 
+13. Title changes
+
+Price ~ List Price
+Selling Price ~ Sale Price 
+Commission Rate ~ Comm Rate
+Commission Amount ~ Comm
+Payout Amount ~ Payout
+
+Shot
